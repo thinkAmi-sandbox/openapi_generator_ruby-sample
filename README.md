@@ -1,0 +1,1 @@
+# openapi_generator_ruby-sample
